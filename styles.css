@@ -21,11 +21,6 @@ a:hover {
   color: #6633ff;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 /* Section Styles */
 
 .main-nav {
@@ -75,13 +70,8 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-<<<<<<< HEAD
   border: 2px solid black;
   transition: all .25s;
-=======
-  border: 2px solid #000;
-  transition: all .5s;
->>>>>>> origin/master
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
