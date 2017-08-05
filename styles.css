@@ -204,3 +204,7 @@ a.social:hover {
   }
 
 }
+
+img {
+  max-width: 100%;
+}
